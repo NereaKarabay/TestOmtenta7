@@ -110,6 +110,7 @@
     <Compile Include="Services\SearchBits.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Models\NereasHtmlPage.html" />
     <Content Include="Module.txt" />
   </ItemGroup>
   <ItemGroup>
